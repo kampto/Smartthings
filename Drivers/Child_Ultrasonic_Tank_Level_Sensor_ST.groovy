@@ -1,4 +1,4 @@
-/* Child Ultrasonic Tank Level Sensor
+/* Child Ultrasonic Tank Level Sensor ST
 *  
 *  Copyright 2017 T. Kamp (kampto)
 *   
@@ -9,7 +9,7 @@
 *
 *    NOTES:  This is for cylindrical vertical tanks with unltrasonic senor on the top. Enter your units or unit conversions first. EX: if you want inches/gallons but sensor reports in cm then select "Convert Sensor Centimeters to Inches". 
 *	 Required is the 3 tank dimensions. If availible you can modify decimals on the Hub dash or Frontend apps (sharptools, etc..)
-*    Smartthings: This DH might compile on Smarthings IDE as of 2020, I commented out parts that dont wrk anymore with ST. You can try but no garuantee's 
+*    Smartthings: This DH may still compile on Smarthings IDE as of 2020, I commented out parts that dont wrk anymore with ST. You can try but no garuantee's 
 *    SharpTools and other frontends: If you switch to this DH with the extra attributes you will need to go (Hubitat) Apps/sharptools/next/done to get them to take. 
 *
 *	Change Revision History:
